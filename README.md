@@ -10,9 +10,9 @@ A simple Python utility to to seperate vocals from a song.
 Python 3.7 or higher
 
 Install Python dependencies: 
-pip install demucs
-pip install ffmpeg-python
-pip install "numpy<2" --force-reinstall
+pip install demucs, 
+pip install ffmpeg-python, 
+pip install "numpy<2" --force-reinstall, 
 pip install torchaudio==2.3.0
 
 # Usage
